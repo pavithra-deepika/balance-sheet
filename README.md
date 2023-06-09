@@ -10,6 +10,7 @@
 
 ## Application shots
 ![image1](https://github.com/pavithra-deepika/balance-sheet/blob/main/image/image1.png)
+
 ## Learnt
  
   - A table in HTML consists of table cells inside rows and columns.
